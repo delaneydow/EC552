@@ -1,0 +1,3 @@
+promName,gateName,design,input,gateSpec
+pLuxStar,A1_AmtR,NOR,0011,A
+pTet,F1_AmeR,NOT,0101,B
